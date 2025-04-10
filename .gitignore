@@ -1,2 +1,6 @@
-# deps
-node_modules/
+node_modules
+generated
+dist
+.env
+
+DS_Store
